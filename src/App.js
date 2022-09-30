@@ -1,9 +1,12 @@
-function App() {
+import * as React from "react";
+import Layout from "./pages/layouts/layout";
+import "./assets/scss/main.scss"
+export default function App() {
   return (
-    <div className="App">
-      Under Devlopment
-    </div>
+    <React.Fragment>
+      <Layout />
+    </React.Fragment>
+
   );
 }
 
-export default App;
