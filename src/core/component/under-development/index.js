@@ -16,7 +16,7 @@ const UnderDevelopment = () => {
                 <a href="https://www.linkedin.com/in/tijo-j-thomaz93/" target="_blank" rel="noopener noreferrer"
                 >here</a>
             </span>
-        </div><img src="https://cdn.dribbble.com/users/5457163/screenshots/11948207/project_22.png" /></>
+        </div><img src="https://imgs.search.brave.com/vVBK0wtFvaj8rWyjaiWF34P2N63oofSK8h1fS-tJBBk/rs:fit:1200:737:1/g:ce/aHR0cDovL3d3dy5i/bGFja3JvY2tzdHVk/aW8uY2Evd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMTAvY29t/aW5nLXNvb24tbWVn/YS5wbmc" /></>
     )
 }
 
