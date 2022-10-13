@@ -32,36 +32,40 @@ export const dataItem = {
         college: 'St. Thomas EMHS Pandalam',
         description: ""
     }
-],
+    ],
     experience: [{
         id: 1,
         date: "2021-present",
         designation: 'Senior Associate Consultant',
         company: 'Infosys',
-        description: "test"
+        description: "test",
+        url: "https://www.infosys.com/"
     },
     {
         id: 2,
         date: "2020-2021",
         designation: 'Software Engineer',
         company: 'NetObjex',
-        description: "test"
+        description: "test",
+        url: "https://www.netobjex.com/"
     },
     {
         id: 3,
         date: "2018-2020",
         designation: 'Engineer',
         company: 'Qburst',
-        description: "test"
+        description: "test",
+        url: "https://www.qburst.com/"
     },
     {
         id: 4,
         date: "2016-2018",
         designation: 'Associate Trainee',
         company: 'Speridian',
-        description: "test"
+        description: "test",
+        url:"https://www.speridian.com/"
     }
-]
+    ]
 
 
 
