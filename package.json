@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "file-saver": "^2.0.5",
     "gh-pages": "^4.0.0"
   }
 }
