@@ -11,18 +11,20 @@ export default function App() {
     setNavActive(!navActive)
     if (!navActive) {
       document.body.classList.add('hide-scroll')
-    }else{
+    } else {
       document.body.classList.remove('hide-scroll')
     }
   }
   return (
     <React.Fragment>
+      <canvas id="bg"></canvas>
       <main className="main">
         {/* Header */}
         <Header navActive={navActive} onNavButtonClick={onNavButtonClick} />
         {/* Header End */}
-        <RouterModule navActive={navActive} imgSrc={imgSrc} onNavButtonClick={onNavButtonClick}  />
-
+        {/* Router */}
+        <RouterModule navActive={navActive} imgSrc={imgSrc} onNavButtonClick={onNavButtonClick} />
+        {/* Router End */}
       </main>
     </React.Fragment>
 
