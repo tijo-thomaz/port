@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c81e0123.css",
-    "main.js": "/static/js/main.ce21081b.js",
+    "main.js": "/static/js/main.cfdc16a5.js",
     "static/js/787.b2e1b36e.chunk.js": "/static/js/787.b2e1b36e.chunk.js",
     "static/media/tijo.png": "/static/media/tijo.31b41fad42ba6d05ef4f.png",
     "static/media/tijo-cv.pdf": "/static/media/tijo-cv.e66a46e1e70c18f10aa2.pdf",
     "index.html": "/index.html",
     "main.c81e0123.css.map": "/static/css/main.c81e0123.css.map",
-    "main.ce21081b.js.map": "/static/js/main.ce21081b.js.map",
+    "main.cfdc16a5.js.map": "/static/js/main.cfdc16a5.js.map",
     "787.b2e1b36e.chunk.js.map": "/static/js/787.b2e1b36e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c81e0123.css",
-    "static/js/main.ce21081b.js"
+    "static/js/main.cfdc16a5.js"
   ]
 }
